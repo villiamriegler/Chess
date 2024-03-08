@@ -1,0 +1,3 @@
+[submodule "ChessEngineCPP"]
+	path = ChessEngineCPP
+	url = git@github.com:villiamriegler/ChessEngineCPP.git
